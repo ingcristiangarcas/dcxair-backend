@@ -1,0 +1,17 @@
+C:\Users\Cristian Garcia\DCXAirBackend\DCXAir.Infrastructure\bin\Debug\net8.0\DCXAir.Infrastructure.deps.json
+C:\Users\Cristian Garcia\DCXAirBackend\DCXAir.Infrastructure\bin\Debug\net8.0\DCXAir.Infrastructure.runtimeconfig.json
+C:\Users\Cristian Garcia\DCXAirBackend\DCXAir.Infrastructure\bin\Debug\net8.0\DCXAir.Infrastructure.dll
+C:\Users\Cristian Garcia\DCXAirBackend\DCXAir.Infrastructure\bin\Debug\net8.0\DCXAir.Infrastructure.pdb
+C:\Users\Cristian Garcia\DCXAirBackend\DCXAir.Infrastructure\bin\Debug\net8.0\DCXAir.Domain.dll
+C:\Users\Cristian Garcia\DCXAirBackend\DCXAir.Infrastructure\bin\Debug\net8.0\DCXAir.Domain.pdb
+C:\Users\Cristian Garcia\DCXAirBackend\DCXAir.Infrastructure\obj\Debug\net8.0\DCXAir.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Cristian Garcia\DCXAirBackend\DCXAir.Infrastructure\obj\Debug\net8.0\DCXAir.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Garcia\DCXAirBackend\DCXAir.Infrastructure\obj\Debug\net8.0\DCXAir.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Cristian Garcia\DCXAirBackend\DCXAir.Infrastructure\obj\Debug\net8.0\DCXAir.Infrastructure.AssemblyInfo.cs
+C:\Users\Cristian Garcia\DCXAirBackend\DCXAir.Infrastructure\obj\Debug\net8.0\DCXAir.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Garcia\DCXAirBackend\DCXAir.Infrastructure\obj\Debug\net8.0\DCXAir.I.C29646A6.Up2Date
+C:\Users\Cristian Garcia\DCXAirBackend\DCXAir.Infrastructure\obj\Debug\net8.0\DCXAir.Infrastructure.dll
+C:\Users\Cristian Garcia\DCXAirBackend\DCXAir.Infrastructure\obj\Debug\net8.0\refint\DCXAir.Infrastructure.dll
+C:\Users\Cristian Garcia\DCXAirBackend\DCXAir.Infrastructure\obj\Debug\net8.0\DCXAir.Infrastructure.pdb
+C:\Users\Cristian Garcia\DCXAirBackend\DCXAir.Infrastructure\obj\Debug\net8.0\DCXAir.Infrastructure.genruntimeconfig.cache
+C:\Users\Cristian Garcia\DCXAirBackend\DCXAir.Infrastructure\obj\Debug\net8.0\ref\DCXAir.Infrastructure.dll
